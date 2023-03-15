@@ -2,7 +2,7 @@
 Useful scripts for repetitive or detailed processes
 
 ## encode_converter.py
-Copia e converter arquivos de uma pasta e subpastas especificada, para um ENCODE válido especificado.
+Copies and converts files from a specified folder and subfolders, to a specified valid ENCODE.
 This conversion will only be performed on files with `.pas` and `.dfm` extensions, but this can easily be changed in code.
 
 ``` shell
