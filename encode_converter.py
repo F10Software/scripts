@@ -1,3 +1,7 @@
+# F10 Software Scripts
+# Copies and converts files from a specified folder and subfolders, to a specified valid ENCODE.
+# This conversion will only be performed on files with .pas and .dfm extensions, but this can easily be changed in code.
+
 import os
 import sys
 import chardet
