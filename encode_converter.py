@@ -21,7 +21,7 @@ def convert_encoding(input_path, output_path, from_encoding, to_encoding='utf-8'
 
 def main():
     if len(sys.argv) != 4:
-        print("Usage: python convert_encoding.py <source_folder> <destination_folder> <encode_name>")
+        print("Usage: python encode_converter.py <source_folder> <destination_folder> <encode_name>")
         sys.exit(1)
 
     source_folder = sys.argv[1]
